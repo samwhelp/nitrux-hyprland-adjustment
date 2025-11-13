@@ -24,7 +24,7 @@
 | Script |
 | ------ |
 | [Nitrux Hyprland Config](https://github.com/samwhelp/nitrux-hyprland-adjustment/tree/main/prototype/main/hyprland-config/part/Main) |
-| [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/tool-config/part) |
+| [Tool Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/tool-config) |
 
 
 
