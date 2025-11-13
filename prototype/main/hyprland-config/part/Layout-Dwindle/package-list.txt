@@ -1,0 +1,32 @@
+
+
+##
+## # Hyprland
+##
+
+
+
+
+##
+## ## Package / Hyprland
+##
+
+hyprland
+hyprlock
+hyprlauncher
+wofi
+#wlogout
+
+
+
+
+
+
+##
+## ## Package / Wallpaper
+##
+
+hyprpaper
+#swaybg
+#azote
+#wf-shell
