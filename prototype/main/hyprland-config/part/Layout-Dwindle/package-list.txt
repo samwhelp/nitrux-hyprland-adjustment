@@ -12,10 +12,10 @@
 ##
 
 hyprland
-hyprlock
-hyprlauncher
+#hyprlock
+#hyprlauncher
 wofi
-#wlogout
+wlogout
 
 
 
